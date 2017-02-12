@@ -19,3 +19,7 @@ drwxr-xr-x  2 filza.valorisantyo41 StafCS 4096 Feb 12 17:00 week09
 drwxr-xr-x  2 filza.valorisantyo41 StafCS 4096 Feb 12 17:00 week10
 drwxr-xr-x  2 filza.valorisantyo41 StafCS 4096 Feb 12 17:00 xtra
 /home/fasilkom/mahasiswa/f/filza.valorisantyo41/os171/week01
+Today is 
+Today is 
+Today is 12 Feb 2017 at 18:48:12
+Today is 12 Feb 2017 at 18:48:28
