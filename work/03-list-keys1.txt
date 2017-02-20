@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/f/filza.valorisantyo41/.gnupg/pubring.gpg
+------------------------------------------------------------------
+pub   4096R/033DA5B6 2017-02-20 [expires: 2017-08-19]
+uid                  Filza Valorisantyo Hudiyono (test cryptography) <filza.valorisantyo41@ui.ac.id>
+sub   4096R/74D32BBD 2017-02-20 [expires: 2017-08-19]
+
