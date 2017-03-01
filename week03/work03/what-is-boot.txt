@@ -1,0 +1,10 @@
+Hello, this is explanation about linux booting!
+There are 6 stages of Linux Boot Process:
+1. BIOS/UEFI
+2. MBR
+3. GRUB
+4. Kernel
+5. Init
+6. Runlevel Program
+
+Source: www.thegeekstuff.com/2011/02/linux-boot-process
