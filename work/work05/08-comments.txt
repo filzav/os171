@@ -1,6 +1,0 @@
-program ini digunakan untuk melihat memory yang digunakan. cara menampilkannya dengan menggunakan malloc() dan system().
-malloc() sendiri merupakan fungsi bawaan dari C yang digunakan untuk mengalokasikan memory yang dibutuhkan dan mengembalikannya dalam bentuk pointer.
-sedangkan system() merupakan fungsi bawaan dari C yang digunakan untuk melewati sebuah perintah atau program yang ditentukan oleh command ke host yang digunakan untuk dieksekusi command processor dan kembali setelah command selesai dikerjakan
-source:
-- https://www.tutorialspoint.com/c_standard_library/c_function_malloc.htm
-- https://www.tutorialspoint.com/c_standard_library/c_function_system.htm
